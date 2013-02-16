@@ -1,9 +1,24 @@
 body {
-  background-color: #fff;
+  background-color: #808080;
   color: #333;
   font-family: verdana, arial, helvetica, sans-serif;
   font-size: 13px;
   line-height: 18px;
+}
+
+#container {
+	background-color: #F8F8F8;
+	border: 10px solid black;	
+	border-radius: 20px;
+	border-top-left-radius: 350px;
+	border-bottom-right-radius: 350px;
+	padding: 100px;
+}
+
+h1 {
+	text-align: center;
+	padding-bottom: 15px;
+	border-bottom: 3px solid black;
 }
 
 p, ol, ul, td {
